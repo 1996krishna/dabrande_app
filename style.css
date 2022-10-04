@@ -1,11 +1,12 @@
 header img{
     max-width: 100px;
 }
+
 header{
     padding-top: 100px;
 }
 .w3-content{
-    background: red;
+    background: grey;
     margin-bottom: 45px;
     color: #000;
    
